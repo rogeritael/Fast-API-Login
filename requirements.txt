@@ -1,0 +1,4 @@
+sqlalchemy
+
+
+#run -> uvicorn main:app --reload
